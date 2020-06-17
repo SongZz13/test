@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="git-002" />
+=======
+        <module name="git-003" />
+>>>>>>> 3c35e18... 添加git-003模块
         <module name="git-001" />
       </profile>
     </annotationProcessing>
