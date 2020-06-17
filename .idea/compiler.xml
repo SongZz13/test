@@ -7,6 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+        <module name="git-004" />
+>>>>>>> a7c33c1... 添加了git-004模块
         <module name="git-002" />
 =======
         <module name="git-003" />
